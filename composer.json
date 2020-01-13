@@ -1,0 +1,17 @@
+{
+    "name": "shangyou/sdk",
+    "description": "http 请求 ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zngue",
+            "email": "875407262@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ShangYou": "src"
+        }
+    }
+}
